@@ -7,9 +7,5 @@ This project utilizes the `pybaseball` package to analyze data for the baseball 
 ## Requirements
 
 - Python 3
-- Install required packages: `pip install pybaseball scikit-learn matplotlib`
+- Install required packages: `pip install pybaseball scikit-learn matplotlib pandas`
 
-##PyBaseball
-
-Installation: pip install pybaseball.<br>
-This script analyzes data for baseball player Aaron Judge, and utilizes a Support Vector Classifier to analyze his strike zone. 
